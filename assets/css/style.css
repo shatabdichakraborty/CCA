@@ -2,7 +2,7 @@
 :root {
     --clr-black: #111111;
     --clr-snow: #FFFAFA;
-    --clr-rose: linear-gradient(to right, #ffafbd 0%,#ffc3a0 100%);
+    --clr-rose: linear-gradient(to right, #172238 0%,#0f101a 100%);
     --clr-gray-light: #DCDCDC;
     --clr-silver: #A9A9A9;
 }

@@ -119,8 +119,8 @@ p {
   color: white;
 }
 
-.linkedin {
-  background: #007bb5;
+.whatsapp {
+  background: #0ab304;
   color: white;
 }
 
@@ -689,7 +689,7 @@ section.why-us {
 /* Coming Soon */
 
 section.coming-soon {
-    background-image: url(../images/1\ \(11\).jpeg);
+  
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
