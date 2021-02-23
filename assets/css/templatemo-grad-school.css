@@ -730,7 +730,7 @@ section.coming-soon .continer .counter .seconds {
   height: 140px;
   float: left;
   text-align: center;
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 800;
   letter-spacing: 1px;
   color: #fff;
@@ -772,10 +772,10 @@ section.coming-soon .continer .counter .seconds .value {
 }
 
 section.coming-soon .continer .counter span {
-    font-size: 18px;
+    font-size: 15px;
     text-transform: uppercase;
     color: #f5a425;
-    font-weight: 500;
+    font-weight: 900;
     letter-spacing: 1px;
     margin-top: 0px;
     display: block;
